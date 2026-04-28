@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Muhunden Jayakrishnan (Jay), a 4th year PhD student in the lab of Prof. Dr. Peter Becker at the Biomedical Center, Ludwig-Maximilians-University (LMU) of Munich, Germany.   
-- 👀 I’m a hybrid Wet lab / Dry lab biologist broadly interested epigenetics, gene regulation and genome topology. 
-- 🌱 My current expertise includes benchwork and analyses of genomics experiments(ChIP-seq, RNA-seq, Micro-C). I also dabble with ML-approaches for Confocal Imaging data and I'm now actively testing published ML-tools to study NGS data.
+- 👋 Hi, I’m Muhunden Jayakrishnan (Jay), an ARISE2 fellow in the lab of Dr. Sinem Saka at the European Molecular Biology Laboratory (EMBL), Heidelberg. 
+- 👀 I’m a hybrid Wet lab / Dry lab biologist broadly interested in developing and applying single-cell and spatially resolved technologies to understand biology. 
+- 🌱 My expertise spans the design and analysis of genomics experiments (ChIP-seq, RNA-seq, Micro-C), spatial transcriptomics and proteomics - from benchwork through to computational analysis. I also apply ML approaches to imaging data, and am currently expanding into life-sciences infrastructure management.
 - 📫 Reach me at j_muhunden@hotmail.com
 
 <!---
